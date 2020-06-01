@@ -11,8 +11,8 @@ const redisStore = require('koa-redis')
 
 const { REDIS_CONF } = require('./conf/db')
 
-  const index = require('./routes/index')
-const users = require('./routes/users')
+const index = require('./routes/index')
+  const users = require('./routes/users')
 
 // error handler
 onerror(app)
