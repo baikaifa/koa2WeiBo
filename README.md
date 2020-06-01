@@ -6,4 +6,5 @@
    # "prd": "cross-env NODE_ENV=production pm2 start bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-#
+
+# cnpm i redis -D      
