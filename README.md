@@ -8,3 +8,4 @@
   },
 
 # cnpm i redis -D      
+# cnpm i koa-redis koa-generic-session -S
